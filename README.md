@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 
 
-# 
-I'm still an undergraduate at Srilanka institute of information technology (SLIIT). Programming is my one of the important part of my life. Much love programming and self-learn anything that I don't know.❤️ 
-#
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
